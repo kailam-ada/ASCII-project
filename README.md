@@ -3,13 +3,13 @@
 
 ## About the project
 
-Fun project using vanilla Javascript to make [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) from an image that you upload.
+Fun project using vanilla Javascript, HTML and CSS to make [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) from an image that you upload.
 
 ## ASCII ?
 
 [ASCII](https://en.wikipedia.org/wiki/ASCII) : abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication.<br/>
 ASCII assigns standard numeric values to letters, numerals, punctuation marks, and other characters used in computers.<br/>
-ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII).<br/>
+[ASCII art](https://en.wikipedia.org/wiki/ASCII_art) is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII).<br/>
 The term is also loosely used to refer to text-based visual art in general.<br/>
 ASCII art was invented, in large part, because early printers often lacked graphics ability and thus, characters were used in place of graphic marks.<br/>
 ASCII art was also used in early e-mail when images could not be embedded.
