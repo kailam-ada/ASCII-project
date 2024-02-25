@@ -13,6 +13,7 @@ ASCII assigns standard numeric values to letters, numerals, punctuation marks, a
 The term is also loosely used to refer to text-based visual art in general.<br/>
 ASCII art was invented, in large part, because early printers often lacked graphics ability and thus, characters were used in place of graphic marks.<br/>
 ASCII art was also used in early e-mail when images could not be embedded.
+<p><a href="https://commons.wikimedia.org/wiki/File:Neofetch.png#/media/File:Neofetch.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Neofetch.png" alt="On MacOS Mojave" height="545" width="1100"></a></p>
 
 ## Demo
 
