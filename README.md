@@ -4,6 +4,7 @@
 ## About the project
 
 Fun project using vanilla Javascript, HTML and CSS to make [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) from an image that you upload.
+There are still many features to add but the next step will be to turn it into a react project.
 
 ## ASCII ?
 
